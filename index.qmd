@@ -1,0 +1,66 @@
+---
+image: Remiszewski Olaf.jpg
+social:
+  - icon: github
+    href: "https://github.com/olafrem"
+  - icon: envelope
+    href: "mailto:olaf.remiszewski@wp.pl"
+  - icon: file
+    href: "CV_Remiszewski_Olaf_eng.pdf"
+  - icon: linkedin
+    href: "https://de.linkedin.com/in/olaf-remiszewski-40430a252"
+
+---
+
+<style>
+
+.profile-photo {
+  float: left;
+  width: 300px;
+  height: 300px;
+}
+
+.social-links {
+  display: flex;
+}
+
+.social-links a {
+  display: inline-block;
+}
+
+.text {
+float: right;
+}
+
+.navbar {
+    background-color: steelblue; 
+}
+
+.navbar a {
+    color: white; }
+
+
+</style>
+::: { .profile-container }
+![](Remiszewski Olaf.jpg)
+
+# Olaf Remiszewski
+-[GitHub](https://github.com/olrem)
+-[Email](mailto:olaf.remiszewski@wp.pl)
+-[CV](CV_Remiszewski_Olaf_eng.pdf)
+-[LinkedIn](https://de.linkedin.com/in/olaf-remiszewski-40430a252)
+
+Hi! My name is Olaf Remiszewski and I am a first semester graduate student at the [European University Viadrina](https://www.europa-uni.de/en/index.html) in Frankfurt (Oder). I am currently pursuing my master's degree in international business administration with focus on finance and international economics. Since this semester I embarked on a new journey and delved into the world of data science and programming.
+
+
+I obtained my B.Sc. at the [European University Viadrina](https://www.europa-uni.de/en/index.html). In my bachelor thesis I elaborated on potential drivers of the seasonality effect in the cross-section of returns, which can be found primarily in the U.S. stock market. Besides that, I briefly investigated two other phenomena related to the predictive power of past returns, namely short-term momentum and long-term reversal.
+
+During my bachelor studies I had the privilege to spend a semester abroad at the [University of Southern Denmark](https://www.sdu.dk/en) in Odense and to do an 6-months internship in corporate banking at one of the leading financial institutions in Europe: [UniCredit](https://www.unicreditgroup.eu/en.html).
+
+As the course ["Becoming Fluent in Data and Beyond"](https://becoming-fluent-in-data.com/) is slowly drawing to a close, I would like to express my gratitude for the opportunity to delve into the world of data and to get in grips with the programming language R, as I am looking forward for other programming courses and the challenges ahead. Firstly however, I want to deliver a superb final project!
+
+:::
+
+
+
+
