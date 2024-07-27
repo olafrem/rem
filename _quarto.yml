@@ -1,0 +1,23 @@
+project:
+  type: website
+  
+
+website:
+  title: "Olaf Remiszewski"
+  navbar:
+    right:
+      - text: "About"
+        href: index.qmd
+      - text: "Pubs"
+        href: index.qmd
+      - text: "Contact"
+        href: index.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
